@@ -23,10 +23,11 @@ p {
 
 .button {
     display: block;
-    margin: 3px 325px 3px 325px;
+    margin: 5% 45% 5% 45%;
     background-color: rgb(250, 134, 134);
     padding: 20px;
     cursor: pointer;
+    text-align: center;
 }
 
 .button :visited {
