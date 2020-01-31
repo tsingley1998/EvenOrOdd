@@ -1,5 +1,8 @@
 body {
     background-image: url("backgroundconfetti.jpg");
+    background-repeat: none;
+    background-position: center;
+    background-size: cover;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
